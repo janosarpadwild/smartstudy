@@ -1,0 +1,83 @@
+{
+    "login":{
+        "font-sizes": {
+            "text":12, "smalltext":9, "button":11, "cmd_link_btn":10
+        }
+    },
+    "user":{
+        "small":{
+            "window-size":{
+                "width":720, "height":480
+            },
+            "font-sizes":{                
+                "title":18, "subtitle":16, "size-menu":10, "text":12
+            },
+            "menu":{
+                "layout":{
+                    "left":10, "top":10, "right":10, "bottom":10, "spacing":5
+                },
+                "backtrack-width":140,
+                "backtrack-width-big":200
+            },
+            "subtitle-margin-left":20,
+            "subtitle-spacing":15,
+            "topic":{
+                "height":50, "title-width":200, "desc-width":250, "small-width":160
+            },
+            "layout-spacing":10
+        },
+        "medium": {
+            "window-size":{
+                "width":1600, "height":900
+            },
+            "font-sizes":{
+                "title":22, "subtitle":20, "size-menu":14, "text":16
+            },
+            "menu":{
+                "layout":{
+                    "left":30, "top":15, "right":30, "bottom":15, "spacing":10
+                },
+                "backtrack-width":160,
+                "backtrack-width-big":240
+            },
+            "subtitle-margin-left":40,
+            "subtitle-spacing":20,
+            "topic":{
+                "height":70, "title-width":250, "desc-width":300, "small-width":200
+            },
+            "layout-spacing":20
+        },
+        "big":{
+            "window-size":{
+                "width":1920, "height":1080
+            },
+            "font-sizes":{
+                "title":24, "subtitle":22, "size-menu":16, "text":18
+            },
+            "menu":{
+                "layout":{
+                    "left":40, "top":20, "right":40, "bottom":20, "spacing":10
+                },
+                "backtrack-width":180,
+                "backtrack-width-big":260
+            },
+            "subtitle-margin-left":50,
+            "subtitle-spacing":25,
+            "topic":{
+                "height":80, "title-width":300, "desc-width":350, "small-width":240
+            },
+            "layout-spacing":25
+        }
+    },
+    "small": {
+        "title":18, "subtitle":16, "test":14, "backtrack":12, "menu":12, "size-menu":10, "text":12, "button":12
+    },
+    "medium": {
+        "title":22, "subtitle":20, "test":18, "backtrack":16, "menu":16, "size-menu":14, "text":16, "button":16
+    },
+    "big": {
+        "title":24, "subtitle":22, "test":20, "backtrack":18, "menu":18, "size-menu":16, "text":18, "button":18
+    }    
+}
+
+
