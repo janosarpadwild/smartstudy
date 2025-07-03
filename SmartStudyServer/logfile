@@ -1,4 +1,0 @@
-2025-01-26 12:56:30.082 GMT [4892] LOG:  redirecting log output to logging collector process
-2025-01-26 12:56:30.082 GMT [4892] HINT:  Future log output will appear in directory "log".
-2025-01-26 12:56:51.677 GMT [8652] LOG:  redirecting log output to logging collector process
-2025-01-26 12:56:51.677 GMT [8652] HINT:  Future log output will appear in directory "log".
